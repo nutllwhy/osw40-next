@@ -25,7 +25,7 @@ pnpm build && pnpm start
    - 进入仓库 Settings → Pages
    - Source 选择 "GitHub Actions"
 3. **推送代码**后自动触发部署
-4. **访问地址**：`https://你的用户名.github.io/osw40-next/`
+4. **访问地址**：`https://nutllwhy.github.io/osw40-next/`
 
 ### 其他部署方式
 - **Vercel**：一键导入仓库即可；默认 `next start`。
@@ -49,7 +49,7 @@ components/
 
 ## 在线体验
 
-🌐 **在线测评地址**：[https://你的用户名.github.io/osw40-next/](https://你的用户名.github.io/osw40-next/)
+🌐 **在线测评地址**：[https://nutllwhy.github.io/osw40-next/](https://nutllwhy.github.io/osw40-next/)
 
 > 完全免费使用，无需注册，数据仅在本地处理，支持下载测评报告。
 
