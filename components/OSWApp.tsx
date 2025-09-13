@@ -231,7 +231,6 @@ function QuestionCard({ item, index, total, value, onAnswer, timerEnabled, onTim
     <div className="max-w-3xl mx-auto bg-white/80 backdrop-blur border border-gray-200 rounded-2xl p-6 md:p-8 shadow-sm">
       <div className="flex items-center justify-between">
         <div className="text-sm text-gray-500">第 {index+1} / {total} 题</div>
-        <div className="text-sm text-gray-500">维度：{DIMS[item.dim].label}</div>
       </div>
       <ProgressBar current={index+1} total={total} />
       <h3 className="mt-5 text-lg md:text-xl font-semibold leading-relaxed">{item.text}</h3>
