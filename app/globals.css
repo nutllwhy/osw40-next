@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg: #ffffff;
+}
+
+html, body { height: 100%; }
+body { background: linear-gradient(to bottom, #f9fafb, #ffffff); color: #111827; }
